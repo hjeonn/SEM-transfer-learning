@@ -1,4 +1,4 @@
-This codebase implements the experimental procedures supporting the paper:
+This codebase implements the experimental procedures of the paper:
 "Bridging data-rich and data-poor domains on Lithium-Ion Battery via Scanning Electron Microscopic data through Convolutional Neural Network Transfer Learning"
 *This work was presented at the AI4Mat-NeurIPS-2025 conference.*
 
